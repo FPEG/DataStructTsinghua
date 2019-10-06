@@ -1,6 +1,6 @@
 #include <cstdio>
 #include "../StackSq/Stack.h"
-//test update
+//test update2
 void conversion()
 {
 	SqStack S;
